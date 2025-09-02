@@ -1,5 +1,5 @@
 h1{
-    margin-left: 40pt;
+    margin-left: 0pt;
     margin-top: 30pt;
     font-family: Georgia, Helvetica, sans-serif;
     font-size: 60pt;
@@ -25,4 +25,5 @@ h2{
     font-size: 18pt;
     font-style: normal;
     background: #ffcfcf;
+
 }
