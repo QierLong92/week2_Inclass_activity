@@ -1,0 +1,28 @@
+h1{
+    margin-left: 40pt;
+    margin-top: 30pt;
+    font-family: Georgia, Helvetica, sans-serif;
+    font-size: 60pt;
+    font-style: normal;
+    font-weight: 200;
+    color: darkgreen
+}
+body,ul{
+    margin-left: 40pt;
+    margin-right: 40pt;
+}
+p{
+    
+    font-family: Arial, Helvetica;
+    font-size: 24pt;
+    font-style: oblique;
+    color: rgb(152, 193, 149);
+}
+
+h2{
+    margin-top: 20pt;
+    font-family: helvetica;
+    font-size: 18pt;
+    font-style: normal;
+    background: #ffcfcf;
+}
